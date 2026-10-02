@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 ----------------------------------------------
 
-I’m a Computer Science student and aspiring data analyst with a growing interest in project management. I enjoy working with data to uncover insights, support decision-making, and solve real-world problems.
+I’m a Computer Science Graduate with Certificate of Teacher Education. 
 
 With experience in leadership, community projects, and tech-related initiatives, I’m also developing strong project management skills—planning, organizing, and leading teams to achieve meaningful outcomes. My goal is to combine data-driven thinking with effective management to deliver impactful solutions.
 
