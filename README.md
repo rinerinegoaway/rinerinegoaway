@@ -9,7 +9,7 @@ I’m a Computer Science Graduate with Certificate of Teacher Education.
 With experience in leadership, community projects, and tech-related initiatives Startups.
 
 I'm based in Philippines
-You can contact me at [reginesorita01@gmail.com]
+You can contact me at reginesorita01@gmail.com and www.linkedin.com/in/regine-sorita
 
 
 <p align="left">
