@@ -66,7 +66,7 @@ I'm a **Computer Science graduate** with a **Certificate in Teacher Education**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rovigne"><img src="https://streak-stats.demolab.com/?user=rovigne&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats for rovigne" /></a>
+  <a href="https://github.com/rinerinegoaway"><img src="https://streak-stats.demolab.com/?user=rinerinegoaway&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats for rinerinegoaway" /></a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ I'm a **Computer Science graduate** with a **Certificate in Teacher Education**,
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/rovigne" target="_blank" rel="noreferrer">
+  <a href="https://github.com/rinerinegoaway" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
