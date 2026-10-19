@@ -20,14 +20,14 @@ and I bring a teacher's habit of making complex things clear.
 
 </div>
 
-```ts
-const regine = {
-  role:   "Mobile Developer",
-  builds: "apps, backends, APIs",
-  roots:  "CS + Teacher Ed",
-  cares:  "useful, accessible",
-  base:   "Philippines",
-};
+```console
+regine@ph:~$ whoami
+Regine B. Sorita, Mobile Developer
+regine@ph:~$ cat background.txt
+Computer Science · Teacher Education
+regine@ph:~$ ls builds/
+mobile-apps/  backends/  apis/
+regine@ph:~$ █
 ```
 
 ## `01` About
@@ -101,7 +101,7 @@ A photobooth with three modes: **solo**, **together** (two people, one device), 
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `WebRTC` `Bun`
 
-[Repository](https://github.com/rinerinegoaway/pix-photobooth) · [Live demo](https://pix-photobooth.vercel.app)
+→ [Repository](https://github.com/rinerinegoaway/pix-photobooth) · [Live demo](https://pix-photobooth.vercel.app)
 
 ### BILIDITO: buy nearby, sell safely
 
@@ -109,7 +109,7 @@ A verified, location-based buy-and-sell marketplace for local communities, start
 
 `SvelteKit` `Svelte 5` `TypeScript` `Tailwind CSS` `PostgreSQL` `Drizzle ORM` `Better Auth` `Leaflet`
 
-[Repository](https://github.com/rinerinegoaway/BILIDITO)
+→ [Repository](https://github.com/rinerinegoaway/BILIDITO)
 
 <!--
   ADD A PROJECT — copy this template above this comment and fill it in.
@@ -120,7 +120,7 @@ One or two sentences: what it does and who it's for.
 
 `Tech` `Tech` `Tech`
 
-[Repository](https://github.com/rinerinegoaway/REPO-NAME) · [Live demo](https://YOUR-DEMO-URL)
+→ [Repository](https://github.com/rinerinegoaway/REPO-NAME) · [Live demo](https://YOUR-DEMO-URL)
 -->
 
 ## `04` GitHub activity
@@ -142,8 +142,8 @@ One or two sentences: what it does and who it's for.
 
 <!-- Update this list anytime. Keep each line short so it reads well on phones. -->
 
-```text
-$ cat now.txt
+```console
+regine@ph:~$ cat now.txt
 → real-time video in the browser (WebRTC)
 → location-based apps and maps
 → accessible, practical mobile UX
@@ -156,3 +156,5 @@ Want to talk about mobile apps, community tech, or teaching code? Reach out.
 <a href="https://github.com/rinerinegoaway"><img src="https://img.shields.io/badge/GitHub-rinerinegoaway-0e7490?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: rinerinegoaway" /></a>
 <a href="https://www.linkedin.com/in/regine-sorita"><img src="https://img.shields.io/badge/LinkedIn-regine--sorita-0e7490?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn: regine-sorita" /></a>
 <a href="mailto:reginesorita01@gmail.com"><img src="https://img.shields.io/badge/Email-reginesorita01%40gmail.com-0e7490?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email: reginesorita01@gmail.com" /></a>
+
+<sub><code>regine@ph:~$ exit</code> · thanks for stopping by</sub>
