@@ -137,18 +137,8 @@ One or two sentences: what it does and who it's for.
 
 <sub>Language share is an automatic estimate from public repository code, not a measure of skill. If a card doesn't load, see my <a href="https://github.com/rinerinegoaway">contribution graph</a> and <a href="https://github.com/rinerinegoaway?tab=repositories">repositories</a>.</sub>
 
-## `05` Currently exploring
 
-<!-- Update this list anytime. Keep each line short so it reads well on phones. -->
-
-```console
-regine@ph:~$ cat now.txt
-→ real-time video in the browser (WebRTC)
-→ location-based apps and maps
-→ accessible, practical mobile UX
-```
-
-## `06` Connect
+## `05` Connect
 
 Want to talk about mobile apps, community tech, or teaching code? Reach out.
 
