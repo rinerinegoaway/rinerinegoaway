@@ -76,8 +76,7 @@ I'm a Computer Science graduate with a Certificate in Teacher Education. I write
 
 <p>
   <a href="https://help.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>&nbsp;
-  <a href="https://helpx.adobe.com/photoshop/user-guide.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="36" height="36" /></a>
-</p>
+
 
 <!--
   OPTIONAL — verify before adding. Your PIX and BILIDITO repos use these,
