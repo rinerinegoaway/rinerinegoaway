@@ -126,16 +126,14 @@ One or two sentences: what it does and who it's for.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rinerinegoaway&card_width=440&border_radius=6&background=161b22&border=30363d&stroke=30363d&ring=22d3ee&fire=22d3ee&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com/?user=rinerinegoaway&card_width=440&border_radius=6&background=ffffff&border=d0d7de&stroke=d0d7de&ring=0e7490&fire=0e7490&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0e7490&sideLabels=59636e&dates=59636e" alt="Regine's GitHub contribution streak: total contributions, current streak, and longest streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rinerinegoaway&v=2&card_width=440&border_radius=6&background=161b22&border=30363d&stroke=30363d&ring=22d3ee&fire=22d3ee&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com/?user=rinerinegoaway&v=2&card_width=440&border_radius=6&background=ffffff&border=d0d7de&stroke=d0d7de&ring=0e7490&fire=0e7490&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0e7490&sideLabels=59636e&dates=59636e" alt="Regine's GitHub contribution streak: total contributions, current streak, and longest streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rinerinegoaway&layout=compact&langs_count=6&card_width=320&border_radius=6&bg_color=161b22&title_color=22d3ee&text_color=c9d1d9&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinerinegoaway&layout=compact&langs_count=6&card_width=320&border_radius=6&bg_color=ffffff&title_color=0e7490&text_color=1f2328&border_color=d0d7de" alt="Most-used languages across Regine's public repositories" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rinerinegoaway&v=2&layout=compact&langs_count=6&card_width=320&border_radius=6&bg_color=161b22&title_color=22d3ee&text_color=c9d1d9&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinerinegoaway&v=2&layout=compact&langs_count=6&card_width=320&border_radius=6&bg_color=ffffff&title_color=0e7490&text_color=1f2328&border_color=d0d7de" alt="Most-used languages across Regine's public repositories" />
   </picture>
 </p>
-
-<sub>Language share is an automatic estimate from public repository code, not a measure of skill. If a card doesn't load, see my <a href="https://github.com/rinerinegoaway">contribution graph</a> and <a href="https://github.com/rinerinegoaway?tab=repositories">repositories</a>.</sub>
 
 
 ## `05` Connect
